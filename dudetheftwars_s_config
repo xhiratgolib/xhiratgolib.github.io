@@ -1,16 +1,14 @@
 
-
-
 {
   "show": true,
   "CheckR": true,
-  "com": true,
-  "published": true,
+  "com": false,
+  "published": false,
   "version": 1,
   "newAppLink": "com.Trailmix.LoveAndPiesMerges",
   
-  "privacy": "https://lpinmarinas.blogspot.com/p/privacy.html",
-  "mail": "lpinmarinas",
+  "privacy": "https://xhiratgolib.blogspot.com/p/privacy.html",
+  "mail": "xhiratgolib",
   
   "intersAds": true,
   "nbOrnAds": "mix",
@@ -27,13 +25,13 @@
   },
   
   "anticipatefantrouble": false,
-  "admob": true,
+  "admob": false,
   "adsadmb": {
-    "admb_banner": "ca-app-pub-7144089957930196/3910420346",
-    "admb_inters": "ca-app-pub-7144089957930196/2597338675",
-    "admb_native": "ca-app-pub-7144089957930196/8971175339",
-    "admb_native2": "ca-app-pub-7144089957930196/8971175339",
-    "admb_openad": "ca-app-pub-7144089957930196/5727926715"
+    "admb_banner": "ca-app-pub-7144089957930196/5684788593",
+    "admb_inters": "ca-app-pub-7144089957930196/4371706921",
+    "admb_native": "ca-app-pub-7144089957930196/5493216903",
+    "admb_native2": "ca-app-pub-7144089957930196/5493216903",
+    "admb_openad": "ca-app-pub-7144089957930196/6806298570"
   },
   
   "onBackOpenAds": true,
@@ -42,7 +40,7 @@
   "unity": false, 
   "adsunity": {
     "unity_ids": "3478504",
-    "unity_id": "3667089",
+    "unity_id": "3667089s",
     "unity_inters": "video"
   }
 }
